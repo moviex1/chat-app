@@ -1,0 +1,7 @@
+{
+  "api_key": "secret",
+  "token_hmac_secret_key": "test",
+  "allowed_origins": [
+    "*"
+  ]
+}
